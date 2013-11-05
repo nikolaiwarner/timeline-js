@@ -3,7 +3,7 @@
   "description": "Timeline package for meteor, basically just a copy of the timeline that nuknight build but in a mrt package",
   "homepage": "https://github.com/andrei-miulescu/timeline-js.git",
   "author": "Andrei Miulescu",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "git": "https://github.com/andrei-miulescu/timeline-js.git",
   "packages": {}
 }
