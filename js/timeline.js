@@ -117,8 +117,7 @@ if (typeof VMM == 'undefined') {
 	/* Main Scope Container
 	================================================== */
 	//var VMM = {};
-	var VMM = Class.extend({});
-	
+
 	/* Debug
 	================================================== */
 	VMM.debug = true;
