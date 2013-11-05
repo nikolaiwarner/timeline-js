@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Timeline package for meteor"
+  summary: "Timeline package for meteor, basically just a copy of the timeline that nuknight build but in a mrt package"
 });
 
 Package.on_use(function (api, where) {
