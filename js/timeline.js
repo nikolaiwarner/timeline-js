@@ -10032,3 +10032,4 @@ if (typeof VMM.Timeline !== 'undefined' && typeof VMM.Timeline.DataObj == 'undef
 	};
 	
 }
+this.VMM = VMM;
